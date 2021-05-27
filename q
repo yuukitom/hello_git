@@ -1,0 +1,21 @@
+ファーストコミット
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   img/favicon.ico
+#	new file:   img/logo.svg
+#	new file:   img/mainvisual.jpg
+#	new file:   img/photo1.jpg
+#	new file:   img/photo2.jpg
+#	new file:   img/photo3.jpg
+#	new file:   img/photo4.jpg
+#	new file:   index.html
+#	new file:   style.css
+#	new file:   style.css.map
+#	new file:   style.scss
+#
